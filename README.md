@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm currently working AI models Deep Q-networks on Unreal Engine.<br>I'm looking to collaborate on innovative AI projects for Unreal Engine projects.<br>I'm currently learning advanced techniques in supervised learning CNN and reinforcement learning DQN.<br>Ask me about IT solutions and Nginx reverse proxy setups or configuring GitLab Community Edition.<br>I developed a project for Personal tracking system with RFID tag and Raspberry Pi.<br>Fun fact I enjoy developing Unreal Engine puzzles.
 
 
